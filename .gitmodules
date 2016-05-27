@@ -1,0 +1,3 @@
+[submodule "lib/embed-resource"]
+	path = lib/embed-resource
+	url = https://github.com/darrenmothersele/embed-resource.git
